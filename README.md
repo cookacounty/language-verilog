@@ -1,4 +1,4 @@
-# Verilog language support in Atom
+# Verilog and VerilogAMS language support in Atom
 
 Adds syntax highlighting and snippets to Verilog files in Atom.
 
